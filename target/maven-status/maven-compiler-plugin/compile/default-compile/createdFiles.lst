@@ -1,0 +1,4 @@
+com/example/springwebservice/controller/UserController.class
+com/example/springwebservice/service/UserService.class
+com/example/springwebservice/model/User.class
+com/example/springwebservice/SpringWebServiceApplication.class
